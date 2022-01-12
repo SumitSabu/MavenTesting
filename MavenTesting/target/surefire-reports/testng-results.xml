@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="LogFramework Suite" duration-ms="46" started-at="2022-01-11T19:37:47 IST" finished-at="2022-01-11T19:37:47 IST">
+    <groups>
+    </groups>
+    <test name="Log Prints to File" duration-ms="46" started-at="2022-01-11T19:37:47 IST" finished-at="2022-01-11T19:37:47 IST">
+      <class name="gamma.Demo2">
+        <test-method status="PASS" signature="Demo2Logs()[pri:0, instance:gamma.Demo2@2415fc55]" name="Demo2Logs" duration-ms="0" started-at="2022-01-11T19:37:47 IST" finished-at="2022-01-11T19:37:47 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Demo2Logs -->
+      </class> <!-- gamma.Demo2 -->
+      <class name="beta.Demo1">
+        <test-method status="PASS" signature="Demo1Logs()[pri:0, instance:beta.Demo1@791d1f8b]" name="Demo1Logs" duration-ms="0" started-at="2022-01-11T19:37:47 IST" finished-at="2022-01-11T19:37:47 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Demo1Logs -->
+      </class> <!-- beta.Demo1 -->
+      <class name="alpha.Demo">
+        <test-method status="PASS" signature="DemoLogs()[pri:0, instance:alpha.Demo@3b5fad2d]" name="DemoLogs" duration-ms="16" started-at="2022-01-11T19:37:47 IST" finished-at="2022-01-11T19:37:47 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- DemoLogs -->
+      </class> <!-- alpha.Demo -->
+    </test> <!-- Log Prints to File -->
+  </suite> <!-- LogFramework Suite -->
+</testng-results>
